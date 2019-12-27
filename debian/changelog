@@ -1,3 +1,9 @@
+python-xapp (1.8.1-1~ubuntuReleaseName0) ubuntuReleaseName; urgency=medium
+
+  * New upstream release
+
+ -- embrosyn <embrosyn@netc.eu>  Fri, 27 Dec 2019 23:28:31 +0100
+
 python-xapp (1.8.1) tricia; urgency=medium
 
   [ Stephen Collins ]
